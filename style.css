@@ -1,0 +1,244 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background-color: #f9f9f9;
+}
+.logo{ 
+    size: 100px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    color: #252B42;
+    font: 
+Montserrat;
+font-size: 24px;
+flex-wrap: wrap;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+    background: white;
+    font-size: 24px;
+flex-wrap: wrap;
+
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    font-size: 24px;
+flex-wrap: wrap;
+
+   
+}
+
+nav ul li {
+    margin: 0 15px;
+    color: #737373;
+    
+}
+
+.login {
+    text-decoration: none;
+    color: #96BB7C;
+    font-weight: bold;
+   padding: 190px;
+    
+}
+.join{
+    background-color: #96bb7c;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    width: 137px;
+    height: 52px;
+    left: 77px;
+    border-radius: 5px;
+    padding: 15px 25px 15px 25px;
+    gap: 15px;
+    font-size: 22px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: #737373;
+}
+.joinn{
+    margin-top: 100px;
+    font-size: 16px;
+    margin-left: 197px;
+    color: #96BB7C;
+}
+.HEADING{
+    margin-left: 197px;
+    flex-wrap: wrap;
+    font-size: 58px;
+    display: flex;
+    margin-top: 35px;
+}
+.def{
+    margin-left: 197px;
+    flex-wrap: wrap;
+    font-size: 20px;
+    display: flex;
+    margin-top: 35px;
+    width: 490px;
+}
+.butt{
+    background-color: #96BB7C;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    border-radius: 5px;
+    gap: 15px;
+    margin-left: 197px;
+    margin-top: 35px;
+}
+.learn{
+     background-color:white;
+    color: #96BB7C;
+    padding: 15px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    border-radius: 5px;
+    gap: 15px;
+   margin-top: 35px;
+   margin-left: 10px;
+}
+.img{
+    height: 600px;
+    margin-left: 920px;
+    /* background-color: #96bb7c; */
+    /* padding-bottom: 20px; */
+    width: 600px;
+   margin-top: -96px;
+   position: absolute;
+   z-index: -1;
+   padding: 10px;
+
+}
+.card {
+   padding: 20px;
+   margin-top: 50px;
+   width: 248px;
+   height: 298px;
+   margin-top: 80px;
+   margin-bottom: 20px;
+   box-shadow: 0 4px 6px rgba(0, 0, 0,0.5);
+}
+
+/* .car{
+      display: flex;
+}
+.shape{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #E74040;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 35px;
+}
+.line{
+     color:#E74040 ;
+} */
+.w-80{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap ;
+   
+}
+.car{
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+.shape{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #E74040;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 35px;
+    flex-wrap: wrap;
+}
+.card h1{
+    font-weight: 500;
+    margin-bottom: 15px;
+    font-size: 20px;
+    color: #252B42;
+
+}
+.line{
+    margin-bottom: 20px;
+    color: #E74040;
+
+}
+.card p{
+    font-size: 14px;
+    font-weight: 400;
+
+}
+.stats h1{
+         color: #96BB7C;
+        
+}
+.more{
+    background-color: #ffffff;
+    color: #96BB7C;
+    padding: 15px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    gap: 15px;
+    margin-left: 197px;
+    margin-top: 35px;
+}
+.boy{
+     height: 600px;
+    margin-left: 920px;
+    /* background-color: #96bb7c; */
+    /* padding-bottom: 20px; */
+    width: 600px;
+   margin-top: -96px;
+   position: absolute;
+   z-index: -1;
+   padding: 10px;
+   top: 73rem;
+}
+.stats{
+    padding-top: 100px;
+}
+.home{
+     margin-left: 197px;
+    flex-wrap: wrap;
+    font-size: 58px;
+    display: flex;
+    margin-top: 35px;
+    padding-top: 100px;
+}
+.linee{
+        padding-left: 200px;
+        padding-top: 100px;
+        color: #E74040;
+}
